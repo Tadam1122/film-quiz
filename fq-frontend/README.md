@@ -1,4 +1,4 @@
-# pq-frontend
+# fq-frontend
 
 ## Project setup
 ```
